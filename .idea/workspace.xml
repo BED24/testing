@@ -4,10 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bfe312e-013f-482a-84d7-6263107da540" name="Changes" comment="yariables">
-      <change afterPath="$PROJECT_DIR$/qqqw4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qqqw_3.py" afterDir="false" />
+    <list default="true" id="0bfe312e-013f-482a-84d7-6263107da540" name="Changes" comment="urok 4">
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqqw10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqqw11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqqw5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqqw6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqqw7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqqw8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qwww9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ur71.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qqqw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/qqqw4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,26 +72,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.prg1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qqqw.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qqqw2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qqqw4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qqqw_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qwe.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;pythone.esson0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bad/Desktop/proba/unearth/images&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.prg1.executor": "Run",
+    "Python.qqqw.executor": "Run",
+    "Python.qqqw10.executor": "Run",
+    "Python.qqqw2.executor": "Run",
+    "Python.qqqw4.executor": "Run",
+    "Python.qqqw5.executor": "Run",
+    "Python.qqqw6.executor": "Debug",
+    "Python.qqqw7.executor": "Run",
+    "Python.qqqw8.executor": "Run",
+    "Python.qqqw_3.executor": "Run",
+    "Python.qwe.executor": "Run",
+    "Python.qwww9.executor": "Run",
+    "Python.ur.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "pythone.esson0",
+    "last_opened_file_path": "C:/Users/Bad/Desktop/proba/unearth/images",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Bad\Desktop\proba\unearth\images" />
@@ -82,7 +107,7 @@
       <recent name="C:\Users\Bad\Desktop\proba" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.qqqw4">
+  <component name="RunManager">
     <configuration name="qqqw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="proba" />
       <option name="ENV_FILES" value="" />
@@ -149,6 +174,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="qqqw5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proba" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qqqw5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="qqqw_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="proba" />
       <option name="ENV_FILES" value="" />
@@ -173,6 +220,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qqqw5" />
         <item itemvalue="Python.qqqw4" />
         <item itemvalue="Python.qqqw_3" />
         <item itemvalue="Python.qqqw2" />
@@ -268,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728228294716</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="urok 4">
+      <option name="closed" value="true" />
+      <created>1728231257504</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728231257504</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +353,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit (added other files)" />
     <MESSAGE value="yariables" />
-    <option name="LAST_COMMIT_MESSAGE" value="yariables" />
+    <MESSAGE value="urok 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="urok 4" />
   </component>
 </project>

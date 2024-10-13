@@ -1,6 +1,10 @@
-donut = input('Сколько стоит пончик:')
-tea = input('Сколько стоит чай:')
+# / - slash
+# \ - backslash
+# \n - с новый строки (тока в строки)
+# \t - табуляция ( клавиша tab - отступ)
 
-total = int(donut) + int(tea)
 
-print('С Вас', total, 'руб.')
+string = 'привет\nучастникам \nсоревнований'
+path= 'c:\\windows\\com.exe'
+conf = "\nкафе \"аисит\""
+print(string, path,conf)
